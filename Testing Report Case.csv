@@ -1,0 +1,14 @@
+Test Case Id,Description,Expected Result,Actual Result,Status,Severity,Remarks
+,,,,,,
+TC001,Test navigation,All links navigate correctly,All links function as intended,Pass,Low,None
+,links,,,,,
+TC002,Verify product listing display,Product display correctly,Products display correctly,Pass,Medium,None
+TC003,Test Shopping cart functionality,Items add/remove/update correctly,Cart function as expected,Pass,High,None
+TC004,Check blog post accessibility,Blog posts are accessible,Blog posts accessible,Pass,Low,None
+TC005,Test contact form submission,Form submits successfully,Form submits successfully,Pass,Medium,None
+TC006,Analyze performance metrics,Performance score,Score: 83,Fail,High,Optimization needed
+,,,,,,
+TC007,Check accessibility features,Accesibility score ,Score: 100,Pass,Medium,Ensure ongoing compilance
+,,,,,,
+TC008,Evaluate SEC metrics,SEC score ,Score:79,Fail,Medium,Implement recommended Seo practies
+,,,,,,
